@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<resources>
+    
+    <string name = "app_name">ElseTestApp2</string>
+    
+    <string name = "textOutputHint">0</string>
+    
+</resources>
